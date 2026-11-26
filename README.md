@@ -13,6 +13,7 @@ Everything a new org starts with on unoverse: one repo is one org, its folders a
 | `components/`, `templates/`, `apps/`, `atoms/` | what the org's screens are made of |
 | `skills/`, `blocks/`, `agents/` | the org's Agents and what they know |
 | `nodes/`, `objects/`, `pipelines/` | how the org connects to other systems and reads its documents |
+| `modules/` | what the org has had built from a recipe, one folder each, named after the recipe: `modules/website/`, later a chatbot, a call centre, commerce. Not here yet: a recipe's work adds its folder by pull request |
 
 ## Start an org
 
